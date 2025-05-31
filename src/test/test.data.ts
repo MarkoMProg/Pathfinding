@@ -1,4 +1,4 @@
-import { PathRequestDto } from "src/dto/path-request.dto";
+import { PathRequestDto } from "../dto/path-request.dto";
 
 export const basicGraphRequest: PathRequestDto = {
   start: "A",
